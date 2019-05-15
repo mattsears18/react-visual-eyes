@@ -2,6 +2,7 @@
   "name": "react-visual-eyes",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mattsears18.github.io/react-visual-eyes",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -16,7 +17,10 @@
     "eject": "react-scripts eject",
     "analyze": "source-map-explorer 'build/static/js/*.js'",
     "styleguide": "styleguidist server",
-    "styleguide:build": "styleguidist build"
+    "styleguide:build": "styleguidist build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "deploy-netlify": "netlify deploy—dir=./build"
   },
   "browserslist": {
     "production": [
