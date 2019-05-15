@@ -3,13 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://mattsears18.github.io/react-visual-eyes",
-  "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
-    "react-styleguidist": "^9.0.9",
-    "source-map-explorer": "^1.8.0"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -32,6 +25,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "react-styleguidist": "^9.0.9",
+    "source-map-explorer": "^1.8.0"
   },
   "devDependencies": {
     "husky": "^2.3.0"
