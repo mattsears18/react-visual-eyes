@@ -34,6 +34,7 @@
     "source-map-explorer": "^1.8.0"
   },
   "devDependencies": {
+    "coveralls": "^3.0.3",
     "husky": "^2.3.0"
   }
 }
