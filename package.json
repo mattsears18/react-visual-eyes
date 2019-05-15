@@ -12,7 +12,8 @@
     "styleguide": "styleguidist server",
     "styleguide:build": "styleguidist build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "test-with-coverage": "react-scripts test --coverage && cat ./coverage/lcov.info | codacy-coverage --token cadc4540bce847d0a149e93582bd56d4"
   },
   "browserslist": {
     "production": [
@@ -34,6 +35,7 @@
     "source-map-explorer": "^1.8.0"
   },
   "devDependencies": {
+    "codacy-coverage": "^3.4.0",
     "coveralls": "^3.0.3",
     "husky": "^2.3.0"
   }
