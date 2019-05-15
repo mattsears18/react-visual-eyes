@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-visual-eyes/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-visual-eyes/static/js/main.00b88938.chunk.js",
+    "main.js.map": "/react-visual-eyes/static/js/main.00b88938.chunk.js.map",
+    "runtime~main.js": "/react-visual-eyes/static/js/runtime~main.176b5458.js",
+    "runtime~main.js.map": "/react-visual-eyes/static/js/runtime~main.176b5458.js.map",
+    "static/js/2.b41502e9.chunk.js": "/react-visual-eyes/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/react-visual-eyes/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/react-visual-eyes/index.html",
+    "precache-manifest.a5b33ce43a1206219c4b62c56104999e.js": "/react-visual-eyes/precache-manifest.a5b33ce43a1206219c4b62c56104999e.js",
+    "service-worker.js": "/react-visual-eyes/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-visual-eyes/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-visual-eyes/static/media/logo.5d5d9eef.svg"
+  }
+}
