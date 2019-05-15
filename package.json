@@ -1,8 +1,8 @@
 {
-  "name": "react-visual-eyes",
+  "name": "purdy-coffee",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mattsears18.github.io/react-visual-eyes",
+  "homepage": "https://mattsears18.github.io/purdy-coffee",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
