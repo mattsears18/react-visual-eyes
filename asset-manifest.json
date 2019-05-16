@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/purdy-coffee/static/css/main.34de6062.chunk.css",
-    "main.js": "/purdy-coffee/static/js/main.f3fb9368.chunk.js",
-    "main.js.map": "/purdy-coffee/static/js/main.f3fb9368.chunk.js.map",
+    "main.js": "/purdy-coffee/static/js/main.481937a5.chunk.js",
+    "main.js.map": "/purdy-coffee/static/js/main.481937a5.chunk.js.map",
     "runtime~main.js": "/purdy-coffee/static/js/runtime~main.a97ecb9d.js",
     "runtime~main.js.map": "/purdy-coffee/static/js/runtime~main.a97ecb9d.js.map",
-    "static/js/2.7ae189d0.chunk.js": "/purdy-coffee/static/js/2.7ae189d0.chunk.js",
-    "static/js/2.7ae189d0.chunk.js.map": "/purdy-coffee/static/js/2.7ae189d0.chunk.js.map",
+    "static/js/2.571845f8.chunk.js": "/purdy-coffee/static/js/2.571845f8.chunk.js",
+    "static/js/2.571845f8.chunk.js.map": "/purdy-coffee/static/js/2.571845f8.chunk.js.map",
     "index.html": "/purdy-coffee/index.html",
-    "precache-manifest.9436d04f9dd4e2bd65f2173d86c70454.js": "/purdy-coffee/precache-manifest.9436d04f9dd4e2bd65f2173d86c70454.js",
+    "precache-manifest.e66342da129b8d0d269038834e79be89.js": "/purdy-coffee/precache-manifest.e66342da129b8d0d269038834e79be89.js",
     "service-worker.js": "/purdy-coffee/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/purdy-coffee/static/css/main.34de6062.chunk.css.map"
   }

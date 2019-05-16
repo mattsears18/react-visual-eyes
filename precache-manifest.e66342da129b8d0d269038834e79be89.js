@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f382169acd472d168eed17484b50cc7f",
+    "revision": "28163609b57686de27d6b4849af05074",
     "url": "/purdy-coffee/index.html"
   },
   {
-    "revision": "95ab47eaf6429f2bd839",
+    "revision": "fdff569221d1d70d6d17",
     "url": "/purdy-coffee/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "1e2b204ad52694e3c6b4",
-    "url": "/purdy-coffee/static/js/2.7ae189d0.chunk.js"
+    "revision": "4ba819c491173076ec17",
+    "url": "/purdy-coffee/static/js/2.571845f8.chunk.js"
   },
   {
-    "revision": "95ab47eaf6429f2bd839",
-    "url": "/purdy-coffee/static/js/main.f3fb9368.chunk.js"
+    "revision": "fdff569221d1d70d6d17",
+    "url": "/purdy-coffee/static/js/main.481937a5.chunk.js"
   },
   {
     "revision": "a2f8e2a24ceb4619d60b",

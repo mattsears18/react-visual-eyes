@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/purdy-coffee/precache-manifest.9436d04f9dd4e2bd65f2173d86c70454.js"
+  "/purdy-coffee/precache-manifest.e66342da129b8d0d269038834e79be89.js"
 );
 
 self.addEventListener('message', (event) => {
